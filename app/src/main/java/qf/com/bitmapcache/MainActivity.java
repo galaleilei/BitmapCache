@@ -23,6 +23,15 @@ public class MainActivity extends AppCompatActivity {
         String abc="http://10.36.137.42:8080/androidoo/q";
         String a="ccd11";
         String x="ccd12";
+        int  q=1;
+        int  w=1;
+        int  r=1;
+        int  rt=1;
+        int  tq=1;
+
+
+
+
 
     }
 }
