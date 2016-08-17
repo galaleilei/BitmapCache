@@ -5,7 +5,7 @@ package qf.com.bitmapcache;
  */
 public class Bb {
 
-    int a=1;
+
     int ss=1;
     int asss=1;
     int assss=1;
