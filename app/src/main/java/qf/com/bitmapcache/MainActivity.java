@@ -2,7 +2,6 @@ package qf.com.bitmapcache;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
 import android.widget.ListView;
 
 import java.util.ArrayList;
@@ -24,10 +23,6 @@ public class MainActivity extends AppCompatActivity {
         String abc="http://10.36.137.42:8080/androidoo/q";
         String a="ccd11";
         String x="ccd12";
-        Log.e("TAG", "abc"+StringUtils.getMD5Str32byte(abc) );
-        Log.e("TAG", "abc"+StringUtils.getMD5Str32byte(abc) );
-        Log.e("TAG", "a"+StringUtils.getMD5Str32byte(a) );
-        Log.e("TAG", "x"+StringUtils.getMD5Str32byte(x) );
 
     }
 }
